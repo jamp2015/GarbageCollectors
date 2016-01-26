@@ -1,0 +1,1 @@
+Please specify the file to run in congig.properties.
