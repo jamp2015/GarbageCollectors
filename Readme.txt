@@ -1,1 +1,1 @@
-Please specify the file to run in congig.properties.
+Please specify the file to run in config.properties.
